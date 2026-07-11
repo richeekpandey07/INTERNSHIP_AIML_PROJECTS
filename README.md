@@ -26,7 +26,9 @@ PROJECT_9(Male_And_Female_Eye_Detection) URL:--------
 
 https://project9maleandfemaleeyedetection-3h4f2cjdyof8bwk4vz29wz.streamlit.app/
 
+PROJECT_10_(Health_Insurance_RAG) URL:--------
 
+https://project10ragchatbox-betakj8mwc7lkblpgsuztu.streamlit.app/
 
 
 
